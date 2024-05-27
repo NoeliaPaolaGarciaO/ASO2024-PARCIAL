@@ -2,9 +2,9 @@
 
 # Grupo 14
 
-# García Noelia
-# Arrimada Priscila Mailen	
-# Astudillo Tomas Valentin
+## García Noelia
+## Arrimada Priscila Mailen	
+## Astudillo Tomas Valentin
 
 ### TEMA
 - Hilos
